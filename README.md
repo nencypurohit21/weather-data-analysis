@@ -19,9 +19,11 @@ This repository is structured and documented to meet academic, portfolio, and en
 
 -weather-data-analysis.ipynb
 
---data - weather.csv
+--data 
+          - weather.csv
 
---images - rainfall_distribution.png
+--images 
+          - rainfall_distribution.png
 
           - temp_3pm_trend.png
 
